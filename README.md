@@ -15,7 +15,7 @@ https://travis-ci.org/solana-labs/example-helloworld.svg?branch=master
 
 This project demonstrates how to use the [Solana Javascript
 API](https://github.com/solana-labs/solana-web3.js) to
-interact with programs on the Solana blockchain.
+interact with programs on the Solana blockchain
 
 The project comprises of:
 
