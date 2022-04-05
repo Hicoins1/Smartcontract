@@ -3,7 +3,7 @@ Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=git
 
 
 [travis-image]:
-https://travis-ci.org/solana-labs/example-helloworld.svg?branch=master
+https://travis-ci.org/solana-lfabs/example-helloworld.svg?branch=master
 [travis-url]: https://travis-ci.org/solana-labs/example-helloworld
 
 # Hello world on Solana (Gitpod version)
